@@ -4,4 +4,4 @@ This repository contains KodeKloud Engineer tasks solutions along with reference
 
 <h2> System Administrators </h2>
 
-26. [Install and setup postfix & dovecot](../tasks/PostfixDovecot.md)
+26. [Install and setup postfix & dovecot](/tasks/PostfixDovecot.md)
